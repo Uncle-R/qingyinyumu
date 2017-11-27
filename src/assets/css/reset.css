@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body{ font-size:12px; font-family:"Microsoft YaHei";}
+body,ul,li,p,img,dl,dt,dd,h1,h2,h3,h4,form,table,tr,td{padding:0;margin:0;}
+img{ border:none;vertical-align:bottom;}
+em{ font-style:normal;}
+ul{ list-style:none;}
+a{ text-decoration:none; color:#a6a6a6;}
+.clear{ clear:both; line-height:10px; height:0; overflow:hidden;}
+.blank5{ clear:both; line-height:10px; height:5px; overflow:hidden;}
+.blank10{ clear:both; line-height:10px; height:10px; overflow:hidden;}
+.blank20{ clear:both; line-height:20px; height:20px; overflow:hidden;}
+.blank30{ clear:both; line-height:30px; height:30px; overflow:hidden;}
+.blank50{ clear:both; line-height:50px; height:50px; overflow:hidden;}
+.blank80{ clear:both; line-height:80px; height:80px; overflow:hidden;}
+.blank100{ clear:both; line-height:100px; height:100px; overflow:hidden;}
+.blank150{ clear:both; line-height:150px; height:150px; overflow:hidden;}
+.blank200{ clear:both; line-height:200px; height:200px; overflow:hidden;}
+.blank15{ clear:both; line-height:15px; height:15px; overflow:hidden;}
+
+
+
+

@@ -1,0 +1,15 @@
+{
+	
+	"Music_List":[{
+				"music_title1": "1.BOOM歌-Tiesto/Sevenn",
+				"music_title2": "2.不能怕-红花会/BrAnTB",
+				"img_url":"../assets/Bang2.png"
+			},
+			{
+				"music_title1": "1.非酋-薛明媛/朱贺",
+				"music_title2": "2.如果我爱你-周冬雨/张一山",
+				"img_url": "../assets/Bang3.png"
+			}
+		
+		]
+}
